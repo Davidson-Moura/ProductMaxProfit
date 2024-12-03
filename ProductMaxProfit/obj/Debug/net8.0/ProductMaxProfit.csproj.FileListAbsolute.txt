@@ -1,0 +1,15 @@
+C:\Users\miste\source\repos\ProductMaxProfit\ProductMaxProfit\bin\Debug\net8.0\ProductMaxProfit.exe
+C:\Users\miste\source\repos\ProductMaxProfit\ProductMaxProfit\bin\Debug\net8.0\ProductMaxProfit.deps.json
+C:\Users\miste\source\repos\ProductMaxProfit\ProductMaxProfit\bin\Debug\net8.0\ProductMaxProfit.runtimeconfig.json
+C:\Users\miste\source\repos\ProductMaxProfit\ProductMaxProfit\bin\Debug\net8.0\ProductMaxProfit.dll
+C:\Users\miste\source\repos\ProductMaxProfit\ProductMaxProfit\bin\Debug\net8.0\ProductMaxProfit.pdb
+C:\Users\miste\source\repos\ProductMaxProfit\ProductMaxProfit\obj\Debug\net8.0\ProductMaxProfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miste\source\repos\ProductMaxProfit\ProductMaxProfit\obj\Debug\net8.0\ProductMaxProfit.AssemblyInfoInputs.cache
+C:\Users\miste\source\repos\ProductMaxProfit\ProductMaxProfit\obj\Debug\net8.0\ProductMaxProfit.AssemblyInfo.cs
+C:\Users\miste\source\repos\ProductMaxProfit\ProductMaxProfit\obj\Debug\net8.0\ProductMaxProfit.csproj.CoreCompileInputs.cache
+C:\Users\miste\source\repos\ProductMaxProfit\ProductMaxProfit\obj\Debug\net8.0\ProductMaxProfit.sourcelink.json
+C:\Users\miste\source\repos\ProductMaxProfit\ProductMaxProfit\obj\Debug\net8.0\ProductMaxProfit.dll
+C:\Users\miste\source\repos\ProductMaxProfit\ProductMaxProfit\obj\Debug\net8.0\refint\ProductMaxProfit.dll
+C:\Users\miste\source\repos\ProductMaxProfit\ProductMaxProfit\obj\Debug\net8.0\ProductMaxProfit.pdb
+C:\Users\miste\source\repos\ProductMaxProfit\ProductMaxProfit\obj\Debug\net8.0\ProductMaxProfit.genruntimeconfig.cache
+C:\Users\miste\source\repos\ProductMaxProfit\ProductMaxProfit\obj\Debug\net8.0\ref\ProductMaxProfit.dll
